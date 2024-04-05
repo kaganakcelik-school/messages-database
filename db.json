@@ -1,16 +1,12 @@
 {
-  "posts":[
+  "messages": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": "1",
+      "content": "this the first message fr"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "2",
+      "content": "this the second message frfr"
     }
   ]
 }
